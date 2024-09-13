@@ -75,12 +75,3 @@ We welcome contributions! If you'd like to contribute, please fork this reposito
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- Special thanks to the Xero API team for their comprehensive API documentation.
-- Thanks to the Power BI team for their support of custom connectors.
-
----
-
-Let me know if you'd like any specific adjustments!
