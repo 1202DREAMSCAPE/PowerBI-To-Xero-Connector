@@ -1,7 +1,7 @@
 ﻿section XeroConnector;
 
-client_id = "469CB861FD77414387E58DACD709A16C";
-required_scopes = "openid profile offline_access email accounting.transactions.read accounting.contacts.read";
+client_id = " ";
+required_scopes = "openid profile offline_access email ";
 
 
 windowWidth = 600;
